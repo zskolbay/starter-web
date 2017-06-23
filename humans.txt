@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joe -- Admin -- @joeadmin
 
 # THANKS
 
