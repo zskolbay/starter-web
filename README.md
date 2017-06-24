@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-Copyright 2017 Zsolt
+Copyright 2017 Zsolt Kolbay
